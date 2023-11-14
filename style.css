@@ -1,0 +1,24 @@
+.table-left{
+    float: left;
+    margin-left: 200px;
+}
+
+.table-right{
+    float: right;
+    margin-right: 200px;
+}
+
+.table{   
+    margin: 0 auto;
+}
+
+.select{
+    padding-top: 50px;
+    clear: both;
+    text-align: center;
+}
+
+table, th, td{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
